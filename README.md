@@ -5,7 +5,7 @@ This project is a vue version of [Paper-dashboard](https://www.creative-tim.com/
 designed for vue js.The dashboard includes vue-router
 
 ## DEMO
-![](https://drive.google.com/file/d/1D81YlgfFhXJ5ynNhu1SyPfBzq_uYQrUZ/view?usp=sharing)
+![](/src/assets/demo/dashboard_demo.gif)
 
 ## Build Setup
 
