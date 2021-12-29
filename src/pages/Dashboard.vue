@@ -79,7 +79,7 @@
         </chart-card>
       </div>
 
-      <div class="col-md-12 col-12">
+      <!-- <div class="col-md-12 col-12">
         <chart-card
           title="Without WAF Services VS. Scrapers"
           chart-type="Bar"
@@ -97,7 +97,7 @@
             <i class="fa fa-circle text-danger"></i> Selenium
           </div>
         </chart-card>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>

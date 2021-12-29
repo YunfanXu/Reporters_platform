@@ -130,7 +130,7 @@ export default {
         data: [...tableData],
       },
       table2: {
-        title: "Recodes",
+        title: "Records",
         subTitle: "The news you have been rated",
         columns: [...tableColumns],
         data: [...tableData2],
